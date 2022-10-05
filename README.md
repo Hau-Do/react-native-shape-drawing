@@ -1,7 +1,7 @@
 # Demo
 <iframe src='//gifs.com/embed/demo-lRx3zV' frameborder='0' scrolling='no' width='652px' height='1412px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
-# shape-generator.
+# Shape Drawing as Generator.
 - [x] A user should be able to spawn an infinite number of squares or circles filled with random colours or images.
 - [x] Application consists of 4 screens using a tab bar. The tabs are as follows:
 *  Squares - this screen only spawns squares.
